@@ -1,4 +1,4 @@
-# SuperFastPython.com
+
 # example of testing chunksize when hashing a word list in parallel with the process pool
 from math import ceil
 from time import time
